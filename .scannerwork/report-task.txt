@@ -1,0 +1,7 @@
+organization=ayllu
+projectKey=aynipy
+serverUrl=https://sonarcloud.io
+serverVersion=6.5.0.27571
+dashboardUrl=https://sonarcloud.io/dashboard/index/aynipy
+ceTaskId=AV55HidOXvuWY4K7qm5l
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV55HidOXvuWY4K7qm5l

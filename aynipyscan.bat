@@ -1,0 +1,1 @@
+./sonar-scanner-3.0.3.778-windows/bin/sonar-scanner.bat -X -Dsonar.projectKey=aynipy -Dsonar.projectBaseDir=./../aynipy -Dsonar.sources="." -Dsonar.web.file.suffixes=.not -Dsonar.xml.file.suffixes=.not -Dsonar.javascript.file.suffixes=.not
